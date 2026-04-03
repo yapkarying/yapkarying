@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student
 -------
 
-I am a Software Engineering student studying in UTM.
+I am a Software Engineering student studying in UTM.👩🏻‍💻📓✍🏻💡
 
 * 🌍  I'm based in Malaysia
 * ✉️  You can contact me at [yapkarying0901@gmail.com](mailto:yapkarying0901@gmail.com)
-* 🧠  I'm learning C++
+* 🧠  I'm learning Dart
 * 🤝  I'm open to collaborating on interesting projects.
 
 ### Skills
